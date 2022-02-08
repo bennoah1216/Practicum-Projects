@@ -36,3 +36,5 @@ missingpy
 seaborn
 
 statsmodels
+
+pandas_profiling
