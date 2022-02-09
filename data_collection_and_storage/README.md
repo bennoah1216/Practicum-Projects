@@ -46,6 +46,8 @@ matplotlib.pyplot
 
 scipy
 
+pandas_profiling
+
 
 
 
