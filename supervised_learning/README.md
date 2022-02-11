@@ -27,8 +27,6 @@ pandas
 
 matplotlib.pyplot
 
-numpy
-
 time
 
 scipy
@@ -41,4 +39,4 @@ yellowbrick
 
 imblearn
 
-scikitplot
+pandas_profiling
