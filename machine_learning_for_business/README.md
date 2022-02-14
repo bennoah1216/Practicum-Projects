@@ -27,4 +27,7 @@ yellowbrick
 
 seaborn
 
-scipy
+pandas_profiling
+
+
+
